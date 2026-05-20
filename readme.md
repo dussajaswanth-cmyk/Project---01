@@ -232,7 +232,4 @@ For pull requests, editor preferences are available in the [editor config](.edit
 
 Finally it should work!!
 
-hi hello
-welcome
-
 
